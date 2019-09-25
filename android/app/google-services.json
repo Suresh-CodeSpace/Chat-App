@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040421733049",
+    "firebase_url": "https://flash-chat-4accf.firebaseio.com",
+    "project_id": "flash-chat-4accf",
+    "storage_bucket": "flash-chat-4accf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040421733049:android:6f0d219351b9f480c79168",
+        "android_client_info": {
+          "package_name": "sureshSharma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040421733049-btfjg0ij3j9pfcmb1orq6s74712k8mf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHqDvxNzlnwop-HMfAB3u1rGDOu_RK750"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040421733049-btfjg0ij3j9pfcmb1orq6s74712k8mf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
